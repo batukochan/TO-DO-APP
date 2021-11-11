@@ -1,0 +1,9 @@
+.form-area  {
+    display: flex !important;
+    justify-content: center ;
+    margin-top: 2vw ;
+}
+
+.form-area input{
+    box-shadow: 3px 3px 2px 3px #3a3a3c;
+}

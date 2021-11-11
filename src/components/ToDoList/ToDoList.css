@@ -1,0 +1,18 @@
+.todolist{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    width: 100vh;
+    margin: 5vw auto;
+}
+.MuiCardActions-root{
+display: flex;
+justify-content: space-between;
+}
+.MuiCardMedia-root {
+    width: 12rem !important;
+}
+.MuiGrid-root  {
+display: flex;
+justify-content: center;}

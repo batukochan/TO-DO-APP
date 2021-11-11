@@ -1,0 +1,9 @@
+.Title {
+    box-sizing: border-box;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    background-color: 	#3a3a3c;
+    color: #ebbb4a;
+  }
